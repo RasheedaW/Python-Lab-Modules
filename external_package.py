@@ -1,9 +1,11 @@
 # Requires colorama; install with: pip install colorama
 
-from colorama import Fore, Style, init
+from colorama import Fore, init
 
 init()
+grade = int(input("Enter your grade: "))
 
-print(Fore.GREEN + "Hello from Colorama!")
-print(Fore.BLUE + "Python modules are fun!")
-print(Style.RESET_ALL + "Back to normal text.")
+if grade >= 70:
+    print(Fore.GREEN + "You passed!")
+else:
+    print(Fore.RED + "You failed. Keep trying!")
