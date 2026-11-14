@@ -12,7 +12,6 @@ Factorial of 5: 120
 PS C:\Users\washi\Documents\Python-Lab-Modules>
 
 PS C:\Users\washi\Documents\Python-Lab-Modules> python external_package.py
-Hello from Colorama!
-Python modules are fun!
-Back to normal text.
+Enter your grade: 56
+You failed. Keep trying!
 PS C:\Users\washi\Documents\Python-Lab-Modules>
