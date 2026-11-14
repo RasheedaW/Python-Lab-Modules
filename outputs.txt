@@ -1,0 +1,18 @@
+
+PS C:\Users\washi\Documents\Python-Lab-Modules>  python builtin_usage.py
+Random Number: 76
+Square Root (floored): 8
+Operating System: Windows
+Python Version: 3.13.6
+PS C:\Users\washi\Documents\Python-Lab-Modules>
+
+PS C:\Users\washi\Documents\Python-Lab-Modules> python use_utilities.py
+Hello, Rasheeda!
+Factorial of 5: 120
+PS C:\Users\washi\Documents\Python-Lab-Modules>
+
+PS C:\Users\washi\Documents\Python-Lab-Modules> python external_package.py
+Hello from Colorama!
+Python modules are fun!
+Back to normal text.
+PS C:\Users\washi\Documents\Python-Lab-Modules>
